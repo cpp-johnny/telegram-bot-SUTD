@@ -3,6 +3,8 @@
 
 > this bot is for memes pls do not get offended
 
+<img src="https://gifdb.com/images/high/north-korea-kim-jong-un-happily-waving-n81f4ughxtqrtmhw.gif" width="400" height="133.5"/>
+
 # How to use SupremeLeader bot?
 1. Download all the files
 2. Open up telegram and search `@BotFather`
