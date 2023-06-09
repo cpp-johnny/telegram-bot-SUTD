@@ -1,4 +1,4 @@
-# Telegram bot SUTD ☢️☢️ Supreme Leader ☢️☢️
+# SUTD Telegram bot ☢️☢️ Supreme Leader ☢️☢️
 > bot I coded in SUTD course
 
 > this bot is for memes pls do not get offended
@@ -16,6 +16,6 @@
 4. Copy the API of bot and put inside `TOKEN = ''`
 5. Change the bot to whatver you like
 
-## Demo
+# Demo
 [click me!](https://t.me/SumpreLeader77_bot) <br>
 note: if commands do not work, it means I turned the bot off lol
